@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 606 479.8" style="enable-background:new 0 0 606 479.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:url(#SVGID_3_);}
+	.st2{display:none;}
+</style>
+<g id="OBJECTS">
+	<g>
+		<g>
+			<defs>
+				<polygon id="SVGID_1_" points="606,496.6 -212.8,496.6 -212.8,496.6 -212.8,0 606,0 				"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st0">
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="148.5033" y1="387.8831" x2="619.1379" y2="-7.4857">
+					<stop  offset="0" style="stop-color:#24AA5A"/>
+					<stop  offset="0.1559" style="stop-color:#35B468"/>
+					<stop  offset="0.4651" style="stop-color:#61CD8C"/>
+					<stop  offset="0.8946" style="stop-color:#A8F5C7"/>
+					<stop  offset="1" style="stop-color:#BBFFD6"/>
+				</linearGradient>
+				<path class="st1" d="M606,0H192.8c-38.3,0-53.8,38.7-49.3,79.8c2,18.3,1.2,37.8-7.3,54.2c-9.5,18.3-28.5,29.5-46.9,38.6
+					c-18.5,9.2-38.1,17.7-51.6,33.3c-13.5,15.6-18.5,40.9-5,56.5c13.8,16,40.7,15.8,53.6,32.6c14.4,18.7,3.1,46.7,11.6,68.7
+					c9.4,24.2,39.3,33.3,65.2,32.3c25.9-1,51.7-8.8,77.4-5.1c32.5,4.7,60,27.4,92.2,33.8c32.9,6.5,66.4-4.5,98.1-15.4
+					c65.1-22.4,134.1-47.6,175.2-102.7V0z M558.9,384.5c7.5,3.3,10.1,11.5,7.5,22.6c-1.4,5.8-4.3,11.2-8.3,15.6
+					c-22.7,25.5-56,41.2-90.1,42.8c-7.3,0.3-14.7,0.1-21.5-2.6c-6.8-2.7-12.7-8.1-14.5-15.2c-2.2-8.8,2.5-18.1,9.5-24
+					c7-5.8,15.8-8.8,24.4-11.7C488,404.8,537.8,375.1,558.9,384.5z M90.2,63.2c10.3-4.5,23.6-4.3,31.5,3.7c5,5,7.2,12.3,7.8,19.4
+					c1.2,13.4-2.6,27.3-10.4,38.2c-6.4,9-15.3,15.8-23.6,23c-8.3,7.2-16.2,14.8-25.3,20.8c-9.2,5.9-19.9,10.2-30.8,9.5
+					c-10.9-0.7-21.8-7.1-25.8-17.3c-4.1-10.5-1-22.8,5-32.3C47.4,83.3,79.9,67.7,90.2,63.2z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="DESIGNED_BY_FREEPIK" class="st2">
+</g>
+</svg>

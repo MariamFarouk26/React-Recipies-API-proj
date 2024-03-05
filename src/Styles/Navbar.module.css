@@ -1,0 +1,14 @@
+.tastyBite span {
+  font-family: 'Lobster', sans-serif;
+  font-size: 1.4em;
+}
+
+@media only screen and (max-width: 575px) {
+  .tastyBite span {
+    font-size: 1.2em !important;
+  }
+
+  .chefLogo {
+    width: 50px !important;
+  }
+}

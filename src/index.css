@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: 'Montserrat', sans-serif; */
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+h4 {
+  font-size: 1rem;
+  color: rgb(56, 56, 56);
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: rgb(56, 56, 56);
+  line-height: 2.5rem;
+  margin: 2rem 0;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+a {
+  color: rgb(56, 56, 56);
+}
+
+/* ---------- NAVBAR ---------- */
+.nav-item .nav-link {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+.nav-item .nav-link.active {
+  color: #198754 !important;
+  font-weight: 600;
+}
+
+.tastyBite span {
+  font-family: 'Lobster', sans-serif;
+  font-size: 1.6em;
+}
+
+@media only screen and (max-width: 575px) {
+  .tastyBite span {
+    font-size: 1.2em !important;
+  }
+
+  .chefLogo {
+    width: 50px !important;
+  }
+}
+
+/* END NAVBAR */
+
+/* ---------- FOOTER ---------- */
+#footer .Link {
+  text-decoration: none;
+  color: rgba(33, 37, 41, 0.7);
+}
+
+#footer p {
+  color: rgb(93, 88, 88);
+  font-weight: 640;
+  /* font-family: 'Lobster', sans-serif; */
+  font-size: 1rem;
+}
+
+#footer input {
+  height: 50px;
+}
+
+button {
+  background-color: #b76156;
+}
+
+#footer i {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* END FOOTER */
+
+/* ------- CONTACT US -------- */
+#contactUs h1 {
+  text-align: center;
+}
+
+#contactUs .form-group {
+  margin-bottom: 20px;
+}
+
+#contactUs label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* END CONTACT US */
+
+/* ----------- CUISINE ---------- */
+
+.cuisine .Countrybanner {
+  background: url('../public/images/9.jpg') no-repeat;
+}
+
+.Catbanner {
+  background: url('../public/images/categories.jpg') no-repeat;
+
+}
+
+.cuisine .banner,
+.cuisine .Countrybanner {
+  position: relative;
+  text-align: center;
+  max-width: 100%;
+  height: 16em;
+  background-position: center !important;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.cuisine .banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.cuisine .banner h1 {
+  position: absolute;
+  font-size: 5rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#countryList .listCountry {
+  display: flex;
+  margin-bottom: 0.8rem;
+  margin-top: 0.8rem;
+}
+
+#countryList .listCountry h4 {
+  font-size: 1.1em;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+#countryList .listCountry svg {
+  margin-right: 0.5rem;
+}
+
+/* END CUISINE */

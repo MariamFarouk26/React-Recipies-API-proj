@@ -1,0 +1,501 @@
+{
+  "Users": [
+    {
+      "id": "da88",
+      "email": "Hosam.abdelaty2015@gmail.com",
+      "password": "123",
+      "firstName": "Hosam",
+      "lastName": "Abdelaty",
+      "isAdmin": true,
+      "purchasedDone": [
+        {
+          "strMeal": "Cajun spiced fish tacos",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+          "idMeal": "52819",
+          "instructions": "In a small bowl, mix together Cajun seasoning, salt, and pepper. Rub the seasoning mixture onto the fish fillets. Heat olive oil in a pan over medium-high heat. Cook the fish for 3-4 minutes on each side, or until cooked through. Warm the tortillas in a separate pan. To assemble the tacos, place some fish onto each tortilla and top with shredded cabbage, salsa, and a squeeze of lime juice. Serve immediately.",
+          "ingredients": [
+            "Fish fillets",
+            "Cajun seasoning",
+            "Salt",
+            "Pepper",
+            "Olive oil",
+            "Tortillas",
+            "Shredded cabbage",
+            "Salsa",
+            "Lime juice"
+          ],
+          "price": 28.5,
+          "id": "81ba"
+        },
+        {
+          "strMeal": "Escovitch Fish",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+          "idMeal": "52944",
+          "instructions": "Season the fish fillets with salt and pepper. In a pan, heat vegetable oil over medium heat. Fry the fish until golden brown on both sides. Remove the fish from the pan and set aside. In the same pan, add sliced onions, bell peppers, carrots, and scotch bonnet peppers. Cook until softened. Add vinegar, sugar, and water to the pan. Bring to a boil, then reduce heat and simmer for a few minutes. Pour the vinegar mixture over the fried fish. Serve with rice or bread.",
+          "ingredients": [
+            "Fish fillets",
+            "Salt",
+            "Pepper",
+            "Vegetable oil",
+            "Onions",
+            "Bell peppers",
+            "Carrots",
+            "Scotch bonnet peppers",
+            "Vinegar",
+            "Sugar",
+            "Water",
+            "Rice or bread"
+          ],
+          "price": 27.35,
+          "id": "ffda"
+        },
+        {
+          "strMeal": "Baked salmon with fennel",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+          "idMeal": "52959",
+          "instructions": "Preheat the oven to 375°F (190°C). Arrange the salmon fillets in a baking dish. Season with salt and pepper. In a bowl, mix together chopped fennel, tomatoes, olive oil, lemon juice, and seasoning. Spoon the mixture over the salmon. Cover the dish with foil and bake for 20-25 minutes, or until the salmon is cooked through. Serve hot.",
+          "ingredients": [
+            "Salmon fillets",
+            "Fennel",
+            "Tomatoes",
+            "Olive oil",
+            "Lemon juice",
+            "Salt",
+            "Pepper"
+          ],
+          "price": 16.99,
+          "id": "f86c"
+        }
+      ],
+      "purchased": [
+        {
+          "strMeal": "Cajun spiced fish tacos",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+          "idMeal": "52819",
+          "instructions": "In a small bowl, mix together Cajun seasoning, salt, and pepper. Rub the seasoning mixture onto the fish fillets. Heat olive oil in a pan over medium-high heat. Cook the fish for 3-4 minutes on each side, or until cooked through. Warm the tortillas in a separate pan. To assemble the tacos, place some fish onto each tortilla and top with shredded cabbage, salsa, and a squeeze of lime juice. Serve immediately.",
+          "ingredients": [
+            "Fish fillets",
+            "Cajun seasoning",
+            "Salt",
+            "Pepper",
+            "Olive oil",
+            "Tortillas",
+            "Shredded cabbage",
+            "Salsa",
+            "Lime juice"
+          ],
+          "price": 28.5,
+          "id": "81ba"
+        },
+        {
+          "strMeal": "Escovitch Fish",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+          "idMeal": "52944",
+          "instructions": "Season the fish fillets with salt and pepper. In a pan, heat vegetable oil over medium heat. Fry the fish until golden brown on both sides. Remove the fish from the pan and set aside. In the same pan, add sliced onions, bell peppers, carrots, and scotch bonnet peppers. Cook until softened. Add vinegar, sugar, and water to the pan. Bring to a boil, then reduce heat and simmer for a few minutes. Pour the vinegar mixture over the fried fish. Serve with rice or bread.",
+          "ingredients": [
+            "Fish fillets",
+            "Salt",
+            "Pepper",
+            "Vegetable oil",
+            "Onions",
+            "Bell peppers",
+            "Carrots",
+            "Scotch bonnet peppers",
+            "Vinegar",
+            "Sugar",
+            "Water",
+            "Rice or bread"
+          ],
+          "price": 27.35,
+          "id": "ffda"
+        }
+      ],
+      "favourite": []
+    },
+    {
+      "id": "25ab",
+      "email": "Mohamed@gmail.com",
+      "password": "123",
+      "firstName": "Mohamed",
+      "lastName": "ahmed",
+      "isAdmin": false,
+      "purchasedDone": [],
+      "purchased": [
+        {
+          "strMeal": "Cajun spiced fish tacos",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+          "idMeal": "52819",
+          "instructions": "In a small bowl, mix together Cajun seasoning, salt, and pepper. Rub the seasoning mixture onto the fish fillets. Heat olive oil in a pan over medium-high heat. Cook the fish for 3-4 minutes on each side, or until cooked through. Warm the tortillas in a separate pan. To assemble the tacos, place some fish onto each tortilla and top with shredded cabbage, salsa, and a squeeze of lime juice. Serve immediately.",
+          "ingredients": [
+            "Fish fillets",
+            "Cajun seasoning",
+            "Salt",
+            "Pepper",
+            "Olive oil",
+            "Tortillas",
+            "Shredded cabbage",
+            "Salsa",
+            "Lime juice"
+          ],
+          "price": 28.5,
+          "id": "81ba"
+        }
+      ]
+    },
+    {
+      "id": "48f6",
+      "email": "asd@gmail.com",
+      "password": "123",
+      "firstName": "asd",
+      "lastName": "asd",
+      "isAdmin": false,
+      "purchased": [],
+      "purchasedDone": []
+    },
+    {
+      "id": "b0e6",
+      "email": "M.Kinawy27@gmail.com",
+      "password": "1234",
+      "firstName": "Mohamed",
+      "lastName": "Mansour",
+      "isAdmin": false,
+      "favourite": [],
+      "purchasedDone": [],
+      "purchased": [
+        {
+          "strMeal": "Cajun spiced fish tacos",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+          "idMeal": "52819",
+          "instructions": "In a small bowl, mix together Cajun seasoning, salt, and pepper. Rub the seasoning mixture onto the fish fillets. Heat olive oil in a pan over medium-high heat. Cook the fish for 3-4 minutes on each side, or until cooked through. Warm the tortillas in a separate pan. To assemble the tacos, place some fish onto each tortilla and top with shredded cabbage, salsa, and a squeeze of lime juice. Serve immediately.",
+          "ingredients": [
+            "Fish fillets",
+            "Cajun seasoning",
+            "Salt",
+            "Pepper",
+            "Olive oil",
+            "Tortillas",
+            "Shredded cabbage",
+            "Salsa",
+            "Lime juice"
+          ],
+          "price": 28.5,
+          "id": "81ba"
+        },
+        {
+          "strMeal": "Escovitch Fish",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+          "idMeal": "52944",
+          "instructions": "Season the fish fillets with salt and pepper. In a pan, heat vegetable oil over medium heat. Fry the fish until golden brown on both sides. Remove the fish from the pan and set aside. In the same pan, add sliced onions, bell peppers, carrots, and scotch bonnet peppers. Cook until softened. Add vinegar, sugar, and water to the pan. Bring to a boil, then reduce heat and simmer for a few minutes. Pour the vinegar mixture over the fried fish. Serve with rice or bread.",
+          "ingredients": [
+            "Fish fillets",
+            "Salt",
+            "Pepper",
+            "Vegetable oil",
+            "Onions",
+            "Bell peppers",
+            "Carrots",
+            "Scotch bonnet peppers",
+            "Vinegar",
+            "Sugar",
+            "Water",
+            "Rice or bread"
+          ],
+          "price": 27.35,
+          "id": "ffda"
+        },
+        {
+          "strMeal": "Baked salmon with fennel",
+          "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+          "idMeal": "52959",
+          "instructions": "Preheat the oven to 375°F (190°C). Arrange the salmon fillets in a baking dish. Season with salt and pepper. In a bowl, mix together chopped fennel, tomatoes, olive oil, lemon juice, and seasoning. Spoon the mixture over the salmon. Cover the dish with foil and bake for 20-25 minutes, or until the salmon is cooked through. Serve hot.",
+          "ingredients": [
+            "Salmon fillets",
+            "Fennel",
+            "Tomatoes",
+            "Olive oil",
+            "Lemon juice",
+            "Salt",
+            "Pepper"
+          ],
+          "price": 16.99,
+          "id": "f86c"
+        }
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "strMeal": "Baked salmon with fennel",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+      "idMeal": "52959",
+      "instructions": "Preheat the oven to 375°F (190°C). Arrange the salmon fillets in a baking dish. Season with salt and pepper. In a bowl, mix together chopped fennel, tomatoes, olive oil, lemon juice, and seasoning. Spoon the mixture over the salmon. Cover the dish with foil and bake for 20-25 minutes, or until the salmon is cooked through. Serve hot.",
+      "ingredients": [
+        "Salmon fillets",
+        "Fennel",
+        "Tomatoes",
+        "Olive oil",
+        "Lemon juice",
+        "Salt",
+        "Pepper"
+      ],
+      "price": 16.99,
+      "id": "f86c"
+    },
+    {
+      "strMeal": "Cajun spiced fish tacos",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+      "idMeal": "52819",
+      "instructions": "In a small bowl, mix together Cajun seasoning, salt, and pepper. Rub the seasoning mixture onto the fish fillets. Heat olive oil in a pan over medium-high heat. Cook the fish for 3-4 minutes on each side, or until cooked through. Warm the tortillas in a separate pan. To assemble the tacos, place some fish onto each tortilla and top with shredded cabbage, salsa, and a squeeze of lime juice. Serve immediately.",
+      "ingredients": [
+        "Fish fillets",
+        "Cajun seasoning",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Tortillas",
+        "Shredded cabbage",
+        "Salsa",
+        "Lime juice"
+      ],
+      "price": 28.5,
+      "id": "81ba"
+    },
+    {
+      "strMeal": "Escovitch Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+      "idMeal": "52944",
+      "instructions": "Season the fish fillets with salt and pepper. In a pan, heat vegetable oil over medium heat. Fry the fish until golden brown on both sides. Remove the fish from the pan and set aside. In the same pan, add sliced onions, bell peppers, carrots, and scotch bonnet peppers. Cook until softened. Add vinegar, sugar, and water to the pan. Bring to a boil, then reduce heat and simmer for a few minutes. Pour the vinegar mixture over the fried fish. Serve with rice or bread.",
+      "ingredients": [
+        "Fish fillets",
+        "Salt",
+        "Pepper",
+        "Vegetable oil",
+        "Onions",
+        "Bell peppers",
+        "Carrots",
+        "Scotch bonnet peppers",
+        "Vinegar",
+        "Sugar",
+        "Water",
+        "Rice or bread"
+      ],
+      "price": 27.35,
+      "id": "ffda"
+    },
+    {
+      "strMeal": "Fish fofos",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+      "idMeal": "53043",
+      "instructions": "This dish does not have a standard recipe. It varies based on personal preference and regional variations. However, a common preparation involves marinating fish fillets with spices and herbs, then grilling or frying them until cooked through. It is often served with rice, salad, or vegetables.",
+      "ingredients": [
+        "Fish fillets",
+        "Spices",
+        "Herbs",
+        "Rice",
+        "Salad",
+        "Vegetables"
+      ],
+      "price": 19.99,
+      "id": "df0b"
+    },
+    {
+      "strMeal": "Fish pie",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+      "idMeal": "52802",
+      "instructions": "Preheat the oven to 375°F (190°C). Boil potatoes until tender, then mash with butter, milk, and seasoning to make mashed potatoes. In a separate pan, cook mixed vegetables until tender. In another pan, melt butter and stir in flour to make a roux. Gradually add milk to the roux, stirring constantly until thickened. Add cooked fish, peas, and parsley to the sauce. Pour the mixture into a baking dish. Top with mashed potatoes and grated cheese. Bake for 25-30 minutes, or until golden brown and bubbling. Serve hot.",
+      "ingredients": [
+        "Potatoes",
+        "Butter",
+        "Milk",
+        "Mixed vegetables",
+        "Flour",
+        "Fish",
+        "Peas",
+        "Parsley",
+        "Grated cheese",
+        "Seasoning"
+      ],
+      "price": 10.5,
+      "id": "ac50"
+    },
+    {
+      "strMeal": "Fish Soup (Ukha)",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+      "idMeal": "53079",
+      "instructions": "In a large pot, bring water to a boil. Add fish heads and bones, onion, bay leaves, and peppercorns to the pot. Reduce heat and simmer for 20-30 minutes, skimming off any foam that rises to the surface. Add diced potatoes, carrots, and celery to the pot. Simmer until vegetables are tender. Season with salt, pepper, and dill. Serve hot.",
+      "ingredients": [
+        "Fish heads and bones",
+        "Onion",
+        "Bay leaves",
+        "Peppercorns",
+        "Potatoes",
+        "Carrots",
+        "Celery",
+        "Salt",
+        "Pepper",
+        "Dill"
+      ],
+      "price": 15.54,
+      "id": "dec7"
+    },
+    {
+      "strMeal": "Fish Stew with Rouille",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+      "idMeal": "52918",
+      "instructions": "Heat olive oil in a large pot over medium heat. Add chopped onions, garlic, and celery. Cook until softened. Stir in diced tomatoes, tomato paste, fish stock, and seasonings. Bring to a simmer and cook for 15-20 minutes. Add fish fillets and simmer until cooked through. To make rouille, mix together mayonnaise, garlic, saffron, and cayenne pepper. Serve the fish stew with rouille and crusty bread.",
+      "ingredients": [
+        "Olive oil",
+        "Onions",
+        "Garlic",
+        "Celery",
+        "Diced tomatoes",
+        "Tomato paste",
+        "Fish stock",
+        "Fish fillets",
+        "Seasonings",
+        "Mayonnaise",
+        "Saffron",
+        "Cayenne pepper",
+        "Crusty bread"
+      ],
+      "price": 25,
+      "id": "ea26"
+    },
+    {
+      "strMeal": "Garides Saganaki",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+      "idMeal": "52764",
+      "instructions": "Heat olive oil in a pan over medium heat. Add chopped onions and garlic, cook until softened. Add diced tomatoes, tomato paste, and seasonings. Simmer for 10-15 minutes. Add shrimp to the sauce and cook until pink and cooked through. Sprinkle with crumbled feta cheese and chopped parsley. Serve hot with crusty bread.",
+      "ingredients": [
+        "Olive oil",
+        "Onions",
+        "Garlic",
+        "Diced tomatoes",
+        "Tomato paste",
+        "Seasonings",
+        "Shrimp",
+        "Feta cheese",
+        "Parsley",
+        "Crusty bread"
+      ],
+      "price": 15.86,
+      "id": "e193"
+    },
+    {
+      "strMeal": "Grilled Portuguese sardines",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+      "idMeal": "53041",
+      "instructions": "Preheat the grill to medium-high heat. Rub sardines with olive oil and season with salt and pepper. Grill sardines for 3-4 minutes on each side, or until cooked through. Serve hot with lemon wedges and a side salad.",
+      "ingredients": [
+        "Portuguese sardines",
+        "Olive oil",
+        "Salt",
+        "Pepper",
+        "Lemon wedges",
+        "Side salad"
+      ],
+      "price": 19.68,
+      "id": "620f"
+    },
+    {
+      "strMeal": "Honey Teriyaki Salmon",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+      "idMeal": "52773",
+      "instructions": "In a bowl, mix together soy sauce, honey, garlic, ginger, and sesame oil to make the teriyaki sauce. Marinate salmon fillets in the sauce for 30 minutes. Heat olive oil in a pan over medium heat. Cook salmon for 4-5 minutes on each side, or until cooked through. Serve hot with steamed rice and vegetables.",
+      "ingredients": [
+        "Soy sauce",
+        "Honey",
+        "Garlic",
+        "Ginger",
+        "Sesame oil",
+        "Salmon fillets",
+        "Olive oil",
+        "Steamed rice",
+        "Vegetables"
+      ],
+      "price": 20.57,
+      "id": "b7a5"
+    },
+    {
+      "strMeal": "Kedgeree",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+      "idMeal": "52887",
+      "instructions": "Boil rice until tender, then drain and set aside. In a pan, melt butter and sauté chopped onions until softened. Add curry powder and cook for another minute. Stir in cooked rice, flaked fish, hard-boiled eggs, and chopped parsley. Heat through and serve hot.",
+      "ingredients": [
+        "Rice",
+        "Butter",
+        "Onions",
+        "Curry powder",
+        "Flaked fish",
+        "Hard-boiled eggs",
+        "Parsley"
+      ],
+      "price": 16.7,
+      "id": "3a8a"
+    },
+    {
+      "strMeal": "Kung Po Prawns",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+      "idMeal": "52946",
+      "instructions": "In a bowl, mix together soy sauce, rice wine, cornstarch, and sugar. Add prawns to the mixture and marinate for 15 minutes. Heat oil in a wok or skillet over high heat. Add dried chili peppers and Sichuan peppercorns, stir-fry for a few seconds. Add marinated prawns and stir-fry until pink and cooked through. Stir in chopped garlic, ginger, and green onions. Cook for another minute. Serve hot with steamed rice.",
+      "ingredients": [
+        "Soy sauce",
+        "Rice wine",
+        "Cornstarch",
+        "Sugar",
+        "Prawns",
+        "Oil",
+        "Dried chili peppers",
+        "Sichuan peppercorns",
+        "Garlic",
+        "Ginger",
+        "Green onions",
+        "Steamed rice"
+      ],
+      "price": 15.38,
+      "id": "bb45"
+    },
+    {
+      "strMeal": "Laksa King Prawn Noodles",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+      "idMeal": "52821",
+      "instructions": "Cook noodles according to package instructions. Drain and set aside. In a pot, heat oil over medium heat. Add laksa paste and cook for a few minutes. Stir in coconut milk and chicken broth, bring to a simmer. Add king prawns and cook until pink and cooked through. Serve hot over cooked noodles, garnished with bean sprouts, cilantro, and lime wedges.",
+      "ingredients": [
+        "Noodles",
+        "Oil",
+        "Laksa paste",
+        "Coconut milk",
+        "Chicken broth",
+        "King prawns",
+        "Bean sprouts",
+        "Cilantro",
+        "Lime wedges"
+      ],
+      "price": 16.18,
+      "id": "7117"
+    },
+    {
+      "strMeal": "Mediterranean Pasta Salad",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "idMeal": "52777",
+      "instructions": "Cook pasta according to package instructions. Drain and rinse under cold water. In a large bowl, combine cooked pasta with chopped tomatoes, cucumber, bell peppers, olives, and feta cheese. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper to make the dressing. Pour the dressing over the pasta salad and toss to coat. Serve chilled.",
+      "ingredients": [
+        "Pasta",
+        "Tomatoes",
+        "Cucumber",
+        "Bell peppers",
+        "Olives",
+        "Feta cheese",
+        "Olive oil",
+        "Lemon juice",
+        "Garlic",
+        "Oregano",
+        "Salt",
+        "Pepper"
+      ],
+      "price": 27.9,
+      "id": "28b1"
+    }
+  ],
+  "Admin": []
+}
